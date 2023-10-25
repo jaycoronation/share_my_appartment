@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const kPrimaryColor = Color(0xFF6F35A5);
+const kPrimaryLightColor = Color(0xFFF1E6FF);
+const Color white= Color(0xffffffff);
+const Color black= Color(0xff000000);
+const Color textFieldBg = Color(0xfff1f0f7);
+const Color blue= Color(0xff3a0ca3);
+const Color light_gray= Color(0xffD7D7D7);
+const Color dark_gray= Color(0xff5F6A78);
+const Color bg_color= Color(0xffEDEDEE);
+const Color active_ind= Color(0xff90B3BF);
+const Color de_active_ind= Color(0xffB4C9CC);
+const Color light_pink= Color(0xffFBC7B1);
+const Color text_color= Color(0xff090B0A);
+const Color dark_orange= Color(0xffEF901F);
+const Color light_orange_new= Color(0xffffd4be);
+const Color light_orange= Color(0xffFEF3E3);
+const Color dark_text = Color(0XFF666A70);
+String language = "en";
